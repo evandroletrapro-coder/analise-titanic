@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+train_test_split
+ColumnTransformer
+Pipeline
+OneHotEncoder, StandardScaler
+SimpleImputer
+import LogisticRegression
+jupyter
